@@ -1,2 +1,14 @@
-# react-mern-stack-exercise-tracker-app-by-n3o
-An exercise tracker application I made using the MERN Stack with React
+------------------------------------------------------------------------------------------------
+
+This project was made by Daniel Madeira during June/July 2021 for educational purposes.
+
+------------------------------------------------------------------------------------------------
+
+A MERN Stack based Exercise Tracker Application.
+
+------------------------------------------------------------------------------------------------
+                                                                          
+      You can contact me @ valterdaniel.madeira@gmail.com !
+
+------------------------------------------------------------------------------------------------
+www.n3o.pt
